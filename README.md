@@ -1,7 +1,7 @@
-# SerialDataLink Library for Arduino
+# SimplexDataLink Library for Arduino
 
 ## Overview
-The SerialDataLink library offers robust serial communication for Arduino, ideal for reliable point-to-point data transfer. This library features enhanced transmission controls, acknowledgment handling, and error management, making it suitable for various applications.
+The SimplexDataLink library offers robust serial communication for Arduino, ideal for reliable point-to-point data transfer. This library features enhanced transmission controls, acknowledgment handling, and error management, making it suitable for various applications.
 
 ## Features
 - **Transmission on Data Change**: Sends data when there's a change or at a predetermined interval.
